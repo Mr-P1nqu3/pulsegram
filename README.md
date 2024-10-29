@@ -46,6 +46,8 @@ PulseGram is a keylogger integrated with a Telegram bot. It is a monitoring tool
    Create a bot on Telegram using BotFather.
    Copy your token and paste it into the code in `main.py` where the bot is initialized.
 
+4. Copy yout ChatID `chat_id="131933xxxx"` in `keylogger.py`
+
 
 ## Usage
 
