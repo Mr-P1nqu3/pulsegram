@@ -25,6 +25,10 @@ PulseGram is a keylogger integrated with a Telegram bot. It is a monitoring tool
 - **Error logs:** Logs errors in an `errors_log.txt` file to facilitate debugging.
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TaurusOmar/pulsegram/master/pulse.gif"/>
+</p>
+
 ## Installation
 
 1. **Clone the repository:**
